@@ -1,0 +1,329 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #000;
+}
+
+.navbar ul{
+    display: flex;
+    
+
+    
+}
+.navbar ul li{
+   list-style-type: none;
+   padding: 20px;
+   
+   
+   
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    list-style-type: none;
+    color: #000;
+    border-radius: 5px;
+  background-color: orangered;
+    color: white;
+    padding: 12px;
+    
+}
+
+.Home{
+    text-align: center;
+    
+    
+}
+
+.Home h1{
+    font-size: 50px;
+}
+
+span{
+    color: orangered;
+}
+
+.Home h3{
+    font-size: 40px;
+    color: orangered;
+}
+
+.Home p{
+    font-size: 25px;
+    padding:2px;
+}
+
+.about{
+    background-color: #b5dbbb;
+    color:black;
+    border-radius: 75px;
+    padding: 0px 30px;
+}
+.headerr{
+    padding: 10px;
+}
+
+.headerr h2{
+    text-align: center;
+    font-size: 50px;
+    
+}
+ .headerr p{
+    text-align: justify;
+    font-size: 20px;
+    
+} 
+
+
+
+.manage h2{
+    font-size: 50px;
+    text-align: center;
+    color: orangered;
+}
+.manage p{
+    text-align: justify;
+    font-size: 20px;
+  
+}
+
+.mile h2{
+    text-align: center;
+     font-size: 50px;
+    
+}
+.mile p{
+    text-align: justify;
+     font-size: 20px;
+     padding-bottom: 20px;
+    
+}
+
+.infra h1 {
+   font-size: 50px;
+   text-align: center;
+   background-color: black;
+   color: orangered;
+   
+  
+   padding: 25px;
+   
+}
+.infra img {
+    
+    padding-left: 550px;
+ }
+
+ .infra p {
+    
+   font-size: 20px;
+   background-color: antiquewhite;
+   padding: 50px;
+   border-radius:0 0  500px;
+   
+ }
+ 
+.InfraStructure {
+    display: grid;
+    background-color: #d0ecfc;
+   margin: 50px;
+    border-radius: 100px;
+    grid-template-columns: repeat(1,1fr);
+    
+}
+
+.yarn h1{
+    text-align: center;
+    font-size: 50px;
+}
+.yarn img{
+    padding-left: 550px;
+  
+}
+.yarn p{
+    text-align: justify;
+    padding: 0px 50px;
+    font-size: 20px;
+}
+
+.weave h1{
+    text-align: center;
+    font-size: 50px;
+}
+.weave img{
+    padding-left: 550px;
+   
+}
+.weave p{
+    text-align: justify;
+    padding:0px 50px;
+    font-size: 20px;
+}
+
+.weaving h1{
+    text-align: center;
+    font-size: 50px;
+}
+.weaving img{
+    padding-left: 550px;
+  
+}
+.weaving p{
+    text-align: justify;
+    padding:0px 50px;
+    font-size: 20px;}
+
+    .processing h1{
+        text-align: center;
+        font-size: 50px;
+    }
+    .processing img{
+        padding-left: 550px;
+      
+    }
+    .processing p{
+        text-align: justify;
+        padding:0px 50px;
+        font-size: 20px;}
+
+        .printing h1{
+            text-align: center;
+            font-size: 50px;
+        }
+        .printing img{
+            padding-left: 550px;
+          
+        }
+        .printing p{
+            text-align: justify;
+            padding:0px 50px;
+            font-size: 20px;}
+
+            .coating h1{
+                text-align: center;
+                font-size: 50px;
+            }
+            .coating img{
+                padding-left: 550px;
+              
+            }
+            .coating p{
+                text-align: justify;
+                padding:0px 50px;
+                font-size: 20px;}
+
+                .sewing h1{
+                    text-align: center;
+                    font-size: 50px;
+                }
+                .sewing img{
+                    padding-left: 200px;
+                  
+                }
+                .sewing p{
+                    text-align:justify;
+                    padding:0px 50px;
+                    font-size: 20px;}
+                    .pro{
+                        text-align: center;
+                        background-color: #000;
+                        color: orangered;
+                        padding: 25px;
+                        font-size: 50px;
+                    }
+
+                    .high{
+                        text-align: center;
+                        font-size: 50px;
+                        color: orangered;
+                    }
+                    .hospital p{
+                        text-align: justify;
+                        padding: 0px 50px;
+                        font-size: 20px;
+                    }
+
+                   .prod{
+                    display: grid;
+                    grid-template-columns: repeat(3,1fr);
+                   }
+
+                   .bed{
+                    padding-left: 50px;
+                   }
+
+                   .appaa{
+                    text-align: justify;
+                    font-size: 20px;
+                    padding: 0px 50px;
+                   }
+
+                   .jp{
+                    padding-left: 550px;
+                   }
+
+                   .wp{
+                    text-align: justify;
+                    padding: 0px 50px;
+                    font-size: 20px;
+                   }
+
+                   .works{
+                    display: grid;
+                    grid-template-columns: repeat(2,1fr);
+                   }
+
+                 .hotels{
+                    padding-left: 250px;
+                 }
+
+                 .footer{
+                    background-color: #000;
+                    color: white;
+                 }
+
+                 .foot{
+                    display: grid;
+                    grid-template-columns: repeat(2,1fr);
+                   
+                 }
+
+                 .modern img{
+                    padding-left: 450px;
+                    padding-top: 50px;
+                 }
+                 .modern p{
+                    text-align: justify;
+                    font-size: 22px;
+                    padding: 30px;
+                 }
+
+                 .foot h1{
+                    color: orangered;
+                    font-size: 30px;
+                 }
+                 .foot p{
+                    font-size: 22px;
+                 }
+                 .info{
+                    padding-left: 350px;
+                 }
+                 .quick{
+                    padding-left: 50px;
+                 }
+                 .con{
+                    padding-left: 550px;
+                    text-align: center;
+                 }
+                 .con h3{
+                    font-size: 25px;
+                 }
+
+                 .last{
+                    text-align: center;
+                    color: #000;
+                    background-color: antiquewhite;
+                   padding: 10px;
+                 }
